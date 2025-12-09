@@ -62,3 +62,16 @@ body {
   border-radius: 12px;
   margin-bottom: 15px;
 }
+
+#sobre-site, #time {
+  max-width: 900px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.foto-time {
+  width: 250px;
+  border-radius: 10px;
+  margin-top: 15px;
+}
+
