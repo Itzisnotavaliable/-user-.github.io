@@ -32,10 +32,10 @@ const filmes = [
     image: "AFTS 3 (2025) (1).png"
   },
   {
-    titulo: "AFTS 6 — A Última Testemunha",
-    elenco: "Malu, Yuri, Sofia",
+    titulo: "Marília Pópis — Ela Chegou Para Arrumar a Casa, e Talvez a Vida dos Outros.",
+    elenco: "Aldineide de Queiróz, Andrey Vieira, Artur Coelho, Gabriel Vitor, Marília Romeiro, Mateus Tiago, Samuel Erivaldo, ..",
     sinopse: "Com o fim se aproximando, apenas uma pessoa sabe toda a verdade.",
-    image: "filme6.jpg"
+    image: "MARÍLIA POPIS.jpg"
   }
 ];
 
@@ -119,3 +119,4 @@ window.onclick = (e) => {
   if (e.target === modal) modal.style.display = "none";
 };
 // // Fechar ao clicar fora da caixa também
+
