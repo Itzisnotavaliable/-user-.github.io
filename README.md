@@ -14,3 +14,5 @@ Samuel Erivaldo
 Obrigado pelo ano de amizade, respeito e parceria. Fiquei realmente feliz e honrado por ter sido chamado para o grupo de trabalho, mesmo com aquele medo inicial de não estar à altura, de ser insuficiente ou atrapalhar. Vocês mostraram que juntos somos mais fortes, e que cada ideia, cada esforço, faz diferença.
 
 Trabalhar com vocês me mostrou que medos podem se transformar em aprendizados, e que o verdadeiro valor de um grupo não está apenas nos resultados, mas na jornada, na confiança e nas risadas compartilhadas.
+
+Meus sinceros agradecimentos, Andrey Vieira. (09/12/2025)
